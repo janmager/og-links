@@ -14,3 +14,6 @@
 
 - news api \
 [News API from lots of countries free api](https://newsapi.org/)
+
+- node-schedule
+- [Node Schedule is a job scheduler for Node.js. It allows to schedule jobs for execution at specific for exampe date or time](https://github.com/node-schedule/node-schedule)
